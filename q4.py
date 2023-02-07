@@ -12,5 +12,6 @@ if __name__ == "__main__":
     num_heads = 0
     # Keep flipping a coint till you get "tails"
     # Print out how many "heads" you got
+    # Hint: use a `while` loop
     #### YOUR CODE HERE
 
