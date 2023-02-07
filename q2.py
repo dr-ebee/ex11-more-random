@@ -2,15 +2,15 @@
 
 # Choose:
 # * Type of animal (at least 3 choices, string)
-animal = None
+animal = None #### YOUR CODE HERE
 # * Age (integer)
-age = None
+age = None #### YOUR CODE HERE
 # * Color (at least 3 choices, string)
-color = None
+color = None #### YOUR CODE HERE
 # * Weight (float)
-weight = None
+weight = None #### YOUR CODE HERE
 # * any additional randomization attributes you want
 
 # Print a summary of your pet using an f-string
-print(f"Your pet is a {animal}")
+print(f"Your pet is a {animal}") #### YOUR CODE HERE
 
