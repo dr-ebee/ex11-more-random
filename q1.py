@@ -6,7 +6,7 @@ def spin_twister_spinner():
     sides: "left" or "right"
     appendage: "hand" or "foot"
     """
-    return
+    return #### YOUR CODE HERE
 
 if __name__ == "__main__":
     for _ in range(10):
